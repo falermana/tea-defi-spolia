@@ -17,7 +17,7 @@
   "homepage": "https://github.com/falermana/tea-defi-spolia#readme",
   "description": "",
   "dependencies": {
-    "teafi-ooooo": "^1.1.4"
-    "tea-defi-spolia": "^1.0.0"
+    "teafi-ooooo": "^1.1.6",
+    "tea-defi-spolia": "^1.0.1"
   }
 }
