@@ -1,0 +1,23 @@
+{
+  "name": "tea-defi-spolia",
+  "version": "1.0.0",
+  "main": "readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falermana/tea-defi-spolia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/falermana/tea-defi-spolia/issues"
+  },
+  "homepage": "https://github.com/falermana/tea-defi-spolia#readme",
+  "description": "",
+  "dependencies": {
+    "teafi-ooooo": "^1.1.4"
+    "tea-defi-spolia": "^1.0.0"
+  }
+}
